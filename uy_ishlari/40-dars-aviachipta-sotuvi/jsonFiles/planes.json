@@ -1,0 +1,12 @@
+[
+    {
+        "id_num": 637610,
+        "name": "Boeing 737",
+        "capacity": 267
+    },
+    {
+        "id_num": 267562,
+        "name": "Airbus A320",
+        "capacity": 300
+    }
+]

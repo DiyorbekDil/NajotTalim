@@ -1,0 +1,12 @@
+[
+    {
+        "name": "n50",
+        "iden_num": 98499,
+        "students": [
+            {
+                "name": "Diyor",
+                "phone": 12345678
+            }
+        ]
+    }
+]

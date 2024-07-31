@@ -1,0 +1,22 @@
+[
+    {
+        "plane": {
+            "id_num": 267562,
+            "name": "Airbus A320",
+            "capacity": 300
+        },
+        "from_airport": {
+            "name": "Toshkent",
+            "country": "Uzbekistan"
+        },
+        "to_airport": {
+            "name": "Doxa",
+            "country": "BAA"
+        },
+        "flight_time": "12:12 12/12/2024",
+        "landing_time": "14:12 12/12/2024",
+        "status": "0",
+        "ticket": 99,
+        "price": 100
+    }
+]

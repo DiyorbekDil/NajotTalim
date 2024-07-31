@@ -1,0 +1,9 @@
+2024-07-26 17:08:04 - __main__ - ERROR - Function: nomsiz: invalid literal for int() with base 10: 'wer'
+Traceback (most recent call last):
+  File "C:\Users\Diyorbek\Desktop\NajotTalim\darsdagi_amaliyot\40-dars-amaliyot.py", line 25, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Diyorbek\Desktop\NajotTalim\darsdagi_amaliyot\40-dars-amaliyot.py", line 48, in nomsiz
+    age = int(input('Enter your age: '))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'wer'

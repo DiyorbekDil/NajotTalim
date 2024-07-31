@@ -1,0 +1,8 @@
+2024-07-27 23:34:47 - logging_file - INFO - Function: login: args: () kwargs: {} result: 1
+2024-07-27 23:34:48 - logging_file - INFO - Function: template: args: ('airport',) kwargs: {} result: None
+2024-07-27 23:35:04 - logging_file - INFO - Function: add_airport: args: () kwargs: {} result: None
+2024-07-27 23:35:04 - logging_file - INFO - Function: template: args: ('airport',) kwargs: {} result: None
+2024-07-28 00:10:54 - logging_file - INFO - Function: login: args: () kwargs: {} result: 1
+2024-07-28 00:12:04 - logging_file - INFO - Function: find_plane: args: ('Boeing 737',) kwargs: {} result: {'id_num': 637610, 'name': 'Boeing 737', 'capacity': 267}
+2024-07-28 00:12:04 - logging_file - INFO - Function: find_airport: args: ('Toshkent',) kwargs: {} result: {'name': 'Toshkent', 'country': 'Uzbekistan'}
+2024-07-28 00:12:04 - logging_file - INFO - Function: find_airport: args: ('Toshkent',) kwargs: {} result: {'name': 'Toshkent', 'country': 'Uzbekistan'}

@@ -1,0 +1,41 @@
+[
+    {
+        "group": "n50",
+        "subject": "Math",
+        "teacher": "Ali",
+        "start_time": "08:30 12/12/2024",
+        "end_time": "09:50 12/12/2024",
+        "grades": [
+            {
+                "student_name": "Diyor",
+                "student_grade": "5"
+            }
+        ]
+    },
+    {
+        "group": "n50",
+        "subject": "Math",
+        "teacher": "Ali",
+        "start_time": "20:48 25/07/2024",
+        "end_time": "20:48 25/07/2024",
+        "grades": [
+            {
+                "student_name": "Diyor",
+                "student_grade": "2"
+            }
+        ]
+    },
+    {
+        "group": "n50",
+        "subject": "Geography",
+        "teacher": "Olim",
+        "start_time": "21:00 25/07/2024",
+        "end_time": "21:01 25/07/2024",
+        "grades": [
+            {
+                "student_name": "Diyor",
+                "student_grade": "1"
+            }
+        ]
+    }
+]
